@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>My HTML Project</title>
+        </head>
+        <body>
+            <h1>Welcome to My HTML Project</h1>
+
+<nav>
+<a href="index.html">Home</a>|
+<a href="tables.html">Tables</a>|
+<a href="forms.html">Forms</a>  |
+<a href="media.html">Media</a>  |
+<a href="extras.html">Extras</a> 
+</nav>
+</body>
+</html>
